@@ -2,7 +2,7 @@ import { Box, Card, CardContent, Typography, IconButton, Tooltip } from '@mui/ma
 import { ArrowBack, ArrowForward } from '@mui/icons-material';
 import { useState } from 'react';
 import nufitpro from '../assets/projects/nufit-pro.png';
-import taxasia from '../assets/projects/Taxas-ia.png';
+import taxasia from '../assets/projects/roberta.jpg';
 
 const projects = [
   {
